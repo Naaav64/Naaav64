@@ -2,6 +2,8 @@
 
 ### Linux SysAdmin | Aspiring Cloud & DevOps Engineer
 
+[Linkedin](https://www.linkedin.com/in/matthewkennethbrown/)
+
 What I'm Up To:
 
 - [ ] Working Through [Learn To Cloud Guide](https://learntocloud.guide)
