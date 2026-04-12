@@ -5,8 +5,8 @@
 What I'm Up To:
 
 - [ ] Working Through [Learn To Cloud Guide](https://learntocloud.guide)
-  - [ ] Phase 0: Complete!
-  - [ ] Phase 1: Complete!
+  - [x] Phase 0: Complete!
+  - [x] Phase 1: Complete!
   - [ ] Phase 2: In-Progress
   - [ ] Phase 3: Queued
   - [ ] Phase 4: Queued
