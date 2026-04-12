@@ -1,8 +1,17 @@
 ## Hi there :smiley_cat:
 
-### Still A Work In Progress
+### Linux SysAdmin | Aspiring Cloud & DevOps Engineer
 
-Currently a SysAdmin breaking into Cloud Engineering
+What I'm Up To:
+
+- [ ] Working Through [Learn To Cloud Guide](https://learntocloud.guide)
+  - [ ] Phase 0: Complete!
+  - [ ] Phase 1: Complete!
+  - [ ] Phase 2: In-Progress
+  - [ ] Phase 3: Queued
+  - [ ] Phase 4: Queued
+  - [ ] Phase 5: Queued
+  - [ ] Phase 6: Queued
 
 <!--
 **Naaav64/Naaav64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
