@@ -1,6 +1,6 @@
 ## Hi there :smiley_cat:
 
-### Linux SysAdmin | Aspiring Cloud & DevOps Engineer
+### Matthew K Brown | Linux SysAdmin | Aspiring Cloud & DevOps Engineer
 
 [Linkedin](https://www.linkedin.com/in/matthewkennethbrown/)
 
